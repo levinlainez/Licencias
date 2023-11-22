@@ -1,0 +1,60 @@
+E:\Proyectos en Csharp\Alejandria\bin\Debug\Alejandria.exe
+E:\Proyectos en Csharp\Alejandria\bin\Debug\Alejandria.pdb
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.csprojAssemblyReference.cache
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.Presentacion.MenuPrincipal.resources
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.Properties.Resources.resources
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.exe
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.pdb
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.Presentacion.AgregarLlaves.resources
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.Presentacion.VisordeLlaves.resources
+E:\Proyectos en Csharp\Alejandria\obj\Debug\Alejandria.Presentacion.Generador.resources
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.csprojAssemblyReference.cache
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.Presentacion.MenuPrincipal.resources
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.Presentacion.VisorLlaves.resources
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.Properties.Resources.resources
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.exe
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.pdb
+E:\Proyectos en Csharp\LicCurso\Alejandria\bin\Debug\Alejandria.exe
+E:\Proyectos en Csharp\LicCurso\Alejandria\bin\Debug\Alejandria.pdb
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.Presentacion.GeneradorLic.resources
+E:\Proyectos en Csharp\LicCurso\Alejandria\obj\Debug\Alejandria.Presentacion.Verlicencias.resources
+C:\Users\HP\Desktop\Alejandria\bin\Debug\Alejandria.exe
+C:\Users\HP\Desktop\Alejandria\bin\Debug\Alejandria.pdb
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.Presentacion.GeneradorLic.resources
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.Presentacion.MenuPrincipal.resources
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.Presentacion.Verlicencias.resources
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.Presentacion.VisorLlaves.resources
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.Properties.Resources.resources
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.exe
+C:\Users\HP\Desktop\Alejandria\obj\Debug\Alejandria.pdb
+C:\Users\HP\Desktop\proyecto\Alejandria\bin\Debug\Alejandria.exe
+C:\Users\HP\Desktop\proyecto\Alejandria\bin\Debug\Alejandria.pdb
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.GeneradorLic.resources
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.MenuPrincipal.resources
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.Verlicencias.resources
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.VisorLlaves.resources
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.Properties.Resources.resources
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.exe
+C:\Users\HP\Desktop\proyecto\Alejandria\obj\Debug\Alejandria.pdb
+C:\Users\sinle\Documents\proyecto\Alejandria\bin\Debug\Alejandria.exe
+C:\Users\sinle\Documents\proyecto\Alejandria\bin\Debug\Alejandria.pdb
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.csproj.AssemblyReference.cache
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.GeneradorLic.resources
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.MenuPrincipal.resources
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.Verlicencias.resources
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.Presentacion.VisorLlaves.resources
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.Properties.Resources.resources
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.csproj.GenerateResource.cache
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.exe
+C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.pdb
