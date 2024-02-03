@@ -86,7 +86,7 @@ namespace Alejandria.Datos
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.StackTrace);
                 return false;
             }
             finally
@@ -108,7 +108,7 @@ namespace Alejandria.Datos
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.StackTrace);
                 return false;
             }
             finally

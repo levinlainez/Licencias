@@ -58,3 +58,15 @@ C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.csproj.Generat
 C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
 C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.exe
 C:\Users\sinle\Documents\proyecto\Alejandria\obj\Debug\Alejandria.pdb
+C:\Users\sinle\source\repos\Licencias\bin\Debug\Alejandria.exe
+C:\Users\sinle\source\repos\Licencias\bin\Debug\Alejandria.pdb
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.csproj.AssemblyReference.cache
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.Presentacion.GeneradorLic.resources
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.Presentacion.MenuPrincipal.resources
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.Presentacion.Verlicencias.resources
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.Presentacion.VisorLlaves.resources
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.Properties.Resources.resources
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.csproj.GenerateResource.cache
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.csproj.CoreCompileInputs.cache
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.exe
+C:\Users\sinle\source\repos\Licencias\obj\Debug\Alejandria.pdb
